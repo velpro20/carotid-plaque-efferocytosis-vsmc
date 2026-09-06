@@ -1,0 +1,11 @@
+# Data provenance
+
+| Accession | Source URL | Download date | Original paper DOI/PMID | Filename(s) | Processing script | Generated result | Intended use | Limitations |
+|---|---|---|---|---|---|---|---|---|
+| GSE111782 | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE111782 | 2026-09-03 | PMID 30335165; DOI to be verified from PubMed metadata | `GSE111782_series_matrix.txt.gz`; `GSE111782_RAW.tar` | `01_download_and_audit.R`, `02_bulk_qc_and_preprocess.R`, `03_bulk_differential_expression.R` | Parsed log2 expression matrix, probe annotation, QC, limma DEG table | Discovery symptomatic versus asymptomatic bulk plaque analysis | Affymetrix array, 18 samples, tissue heterogeneity, limited clinical covariates |
+| GSE311535 | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE311535 | 2026-09-03 | PMID 41377472; DOI to be verified from PubMed metadata | `GSE311535_series_matrix.txt.gz`; `GSE311535_carotid_plaque_counts_matrix.txt.gz` | `01_download_and_audit.R`, `02_bulk_qc_and_preprocess.R`, `03_bulk_differential_expression.R` | Parsed counts matrix, edgeR QC/validation outputs | Independent bulk validation | Diabetes-specific cohort, 12 samples, RNA-seq versus discovery array |
+| GSE260657 | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE260657 | 2026-09-03 | PMID 38639096; DOI to be verified from PubMed metadata | `GSE260657_series_matrix.txt.gz`; `GSE260657_RAW.tar` if complete; `filelist.txt`; `GSE260657_raw_file_name_SRRaccns.txt.gz` | `01_download_and_audit.R`, `06_scrna_qc_annotation.R`, `07_scrna_macrophage_vsmc.R` | scRNA cell matrix, QC, annotations, macrophage/VSMC state summaries if parsed | Human carotid plaque cell localization | Raw archive retrieval and donor metadata must be verified; Smart-seq2 sampling/dissociation effects |
+| GSE210152 | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE210152 | 2026-09-03 | PMID 38362263; DOI to be verified from PubMed metadata | `GSE210152_raw.h5ad.gz` if downloaded | `01_download_and_audit.R` | Audit-only candidate unless needed | Contextual immune atlas | Immune-focused; VSMC localization may be inadequate |
+
+All downloaded source files are immutable project inputs. They must not be edited, overwritten, or deleted. The provenance table is updated when file hashes and processing results are finalized.
+
