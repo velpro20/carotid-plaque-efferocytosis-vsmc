@@ -1,0 +1,3 @@
+"cohort","signature_1","signature_2","n_samples","observed_rho","observed_P_value","loo_min_rho","loo_median_rho","loo_max_rho","bootstrap_median_rho","bootstrap_ci_low","bootstrap_ci_high","bootstrap_iterations_used"
+"GSE111782","efferocytosis","inflammatory_vsmc",18,0.799793601651187,6.77596194348165e-05,0.767156862745098,0.791666666666667,0.852941176470588,0.798126951092612,0.484249643253528,0.933491444785188,5000
+"GSE311535","efferocytosis","inflammatory_vsmc",12,0.881118881118881,0.000152674064676699,0.845454545454546,0.868181818181818,0.927272727272727,0.8907100199071,0.51240975422427,1,5000

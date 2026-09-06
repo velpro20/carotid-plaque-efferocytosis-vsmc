@@ -1,0 +1,4 @@
+"subcluster","macrophage_score","efferocytosis_score","noncontractile_vsmc_score","n_cells","dominant_program"
+"macrophage_S1",1.53699077762347,0.730293601062846,-0.323556021818238,331,"macrophage_score"
+"macrophage_S2",1.12204685970246,0.134565992065478,-0.478222307555004,1184,"macrophage_score"
+"macrophage_S3",0.653491346534287,0.173855261986698,-0.124061428201572,756,"macrophage_score"

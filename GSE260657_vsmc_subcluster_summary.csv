@@ -1,0 +1,4 @@
+"subcluster","vsmc_score","contractile_vsmc_score","noncontractile_vsmc_score","n_cells","dominant_program"
+"vsmc_S1",0.878296429744135,0.799536073767503,-0.115422598866694,695,"vsmc_score"
+"vsmc_S2",1.21030813891254,1.06394196655497,0.222643025487704,519,"vsmc_score"
+"vsmc_S3",1.96731533027141,1.87866297574707,0.0404567655948566,297,"vsmc_score"

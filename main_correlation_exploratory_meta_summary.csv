@@ -1,0 +1,2 @@
+"method","cohorts","pooled_rho","ci_low","ci_high","note"
+"exploratory_fixed_effect_fisher_z","GSE111782;GSE311535",0.834887409224841,0.666251523913713,0.922289172991433,"Exploratory descriptive synthesis only; cohorts remain reported separately because clinical and platform differences are material."

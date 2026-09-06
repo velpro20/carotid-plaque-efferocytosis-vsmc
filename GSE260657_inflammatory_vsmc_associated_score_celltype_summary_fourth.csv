@@ -1,0 +1,9 @@
+"major_cell_type","median_sample_level_score","iqr_sample_level_score","n_sample_files_with_celltype","rank_by_median_score"
+"b_cell",-0.0219884323416151,"-0.176 to 0.129",15,3
+"endothelial",-0.127825111059585,"-0.217 to -0.031",15,7
+"fibroblast",0.00611601978251213,"-0.044 to 0.072",15,2
+"macrophage",-0.0456679395889363,"-0.111 to 0.100",15,5
+"mast",-0.0960663004732525,"-0.154 to -0.009",15,6
+"t_nk",0.0583588211965082,"-0.054 to 0.163",15,1
+"unassigned",-0.0423503697683425,"-0.077 to 0.037",15,4
+"vsmc",-0.131865630370358,"-0.209 to -0.115",15,8

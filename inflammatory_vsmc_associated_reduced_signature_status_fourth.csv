@@ -1,0 +1,2 @@
+"criterion","retained_genes","n_retained_genes","note"
+"scRNA VSMC mean rank <= 2 among annotated major cell types","CXCL12;VCAM1;RELA;STAT3",4,"Sensitivity analysis only; this does not establish VSMC specificity in bulk tissue."

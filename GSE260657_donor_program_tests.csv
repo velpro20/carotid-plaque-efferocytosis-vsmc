@@ -1,0 +1,7 @@
+"cell_type","program","n_donors","P_value","FDR"
+"macrophage","efferocytosis_score",15,0.385418232368229,0.786674582709127
+"macrophage","contractile_vsmc_score",15,0.953857153061604,0.953857153061604
+"macrophage","noncontractile_vsmc_score",15,0.224313126511154,0.786674582709127
+"vsmc","efferocytosis_score",15,0.451913458279073,0.786674582709127
+"vsmc","contractile_vsmc_score",15,0.524449721806084,0.786674582709127
+"vsmc","noncontractile_vsmc_score",15,0.862186694400762,0.953857153061604

@@ -1,0 +1,11 @@
+"cohort","signature","total_genes","mapped_genes","missing_genes","mapped_fraction"
+"GSE111782","contractile_vsmc",12,11,"SYNPO2",0.916666666666667
+"GSE311535","contractile_vsmc",12,12,"",1
+"GSE111782","ecm_remodeling_vsmc",12,12,"",1
+"GSE311535","ecm_remodeling_vsmc",12,12,"",1
+"GSE111782","efferocytosis",30,29,"TIMD4",0.966666666666667
+"GSE311535","efferocytosis",30,30,"",1
+"GSE111782","inflammatory_vsmc",12,12,"",1
+"GSE311535","inflammatory_vsmc",12,12,"",1
+"GSE111782","synthetic_vsmc",12,12,"",1
+"GSE311535","synthetic_vsmc",12,12,"",1

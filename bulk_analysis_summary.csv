@@ -1,0 +1,3 @@
+"cohort","model","n_asymptomatic","n_symptomatic","n_genes_tested","FDR_threshold"
+"GSE111782","limma empirical Bayes linear model",9,9,14289,0.05
+"GSE311535","edgeR quasi-likelihood negative-binomial model",6,6,21925,0.05

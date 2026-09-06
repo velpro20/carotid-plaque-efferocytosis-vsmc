@@ -1,0 +1,17 @@
+"group","major_cell_type","n_cells","fraction_of_cells","n_donors_with_celltype"
+"asymptomatic","b_cell","median=16;IQR=10.5-23.5","median=0.02953;IQR=0.02447-0.03129",7
+"symptomatic","b_cell","median=12;IQR=8.25-13.25","median=0.02769;IQR=0.01744-0.04504",8
+"asymptomatic","endothelial","median=90;IQR=41-126","median=0.1734;IQR=0.07852-0.2448",7
+"symptomatic","endothelial","median=12.5;IQR=7.5-21.25","median=0.02634;IQR=0.01941-0.06946",8
+"asymptomatic","fibroblast","median=112;IQR=83-157.5","median=0.2249;IQR=0.169-0.2407",7
+"symptomatic","fibroblast","median=113;IQR=30.75-165.2","median=0.2201;IQR=0.1356-0.2788",8
+"asymptomatic","macrophage","median=210;IQR=90-217.5","median=0.2696;IQR=0.1355-0.3419",7
+"symptomatic","macrophage","median=120.5;IQR=76.25-198.8","median=0.3578;IQR=0.2545-0.4055",8
+"asymptomatic","mast","median=10;IQR=7-11.5","median=0.01361;IQR=0.01226-0.02338",7
+"symptomatic","mast","median=17;IQR=10.75-21.25","median=0.04655;IQR=0.03282-0.0574",8
+"asymptomatic","t_nk","median=20;IQR=5-49","median=0.0223;IQR=0.01565-0.06298",7
+"symptomatic","t_nk","median=8.5;IQR=7.75-10.25","median=0.02626;IQR=0.01557-0.04304",8
+"asymptomatic","unassigned","median=36;IQR=32-47.5","median=0.0735;IQR=0.05265-0.09695",7
+"symptomatic","unassigned","median=43;IQR=37.75-49.5","median=0.1228;IQR=0.07036-0.1661",8
+"asymptomatic","vsmc","median=85;IQR=68.5-146","median=0.1839;IQR=0.1269-0.2548",7
+"symptomatic","vsmc","median=96.5;IQR=19.5-117.8","median=0.1653;IQR=0.07979-0.2241",8

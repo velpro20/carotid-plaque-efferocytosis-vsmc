@@ -1,0 +1,7 @@
+"cohort","model","adjusted_for","rho","P_value","n_samples","note","FDR"
+"GSE111782","macrophage_and_vsmc_proxy","macrophage_marker;vsmc_marker",0.00928792569659443,0.970822376325762,18,"Exploratory rank-residual partial Spearman; small n and marker-score collinearity limit inference.",0.970822376325762
+"GSE111782","four_celltype_proxy","macrophage_marker;vsmc_marker;endothelial_marker;fibroblast_marker",-0.170278637770898,0.49934109695674,18,"Exploratory rank-residual partial Spearman; small n and marker-score collinearity limit inference.",0.599209316348088
+"GSE111782","inflammation_proxy","broad_inflammation_marker",-0.329205366357069,0.182211997759174,18,"Exploratory rank-residual partial Spearman; small n and marker-score collinearity limit inference.",0.364423995518349
+"GSE311535","macrophage_and_vsmc_proxy","macrophage_marker;vsmc_marker",0.755244755244755,0.00450843548429423,12,"Exploratory rank-residual partial Spearman; small n and marker-score collinearity limit inference.",0.0174034514234347
+"GSE311535","four_celltype_proxy","macrophage_marker;vsmc_marker;endothelial_marker;fibroblast_marker",0.741258741258741,0.00580115047447824,12,"Exploratory rank-residual partial Spearman; small n and marker-score collinearity limit inference.",0.0174034514234347
+"GSE311535","inflammation_proxy","broad_inflammation_marker",0.27972027972028,0.378568669662303,12,"Exploratory rank-residual partial Spearman; small n and marker-score collinearity limit inference.",0.567853004493455

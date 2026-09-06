@@ -1,0 +1,3 @@
+"cohort","signature_1","signature_2","n_samples","rho","P_value","retained_genes","FDR"
+"GSE111782","efferocytosis","inflammatory_vsmc_associated_reduced",18,0.723426212590299,0.000690902130599782,"CXCL12;VCAM1;RELA;STAT3",0.00138180426119956
+"GSE311535","efferocytosis","inflammatory_vsmc_associated_reduced",12,0.727272727272727,0.00735502885780513,"CXCL12;VCAM1;RELA;STAT3",0.00735502885780513
