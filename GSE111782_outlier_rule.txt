@@ -1,0 +1,15 @@
+Outlier rule: a sample is flagged if missing_fraction > 0.05, or if its median sample correlation is below the cohort median minus 3 MAD.
+No sample was automatically removed by this script. Flagged samples are retained pending author review.
+Importance of components:
+                           PC1     PC2     PC3      PC4      PC5     PC6
+Standard deviation     80.1359 38.7539 38.0416 37.48178 36.58135 25.7476
+Proportion of Variance  0.4495  0.1051  0.1013  0.09833  0.09367  0.0464
+Cumulative Proportion   0.4495  0.5546  0.6559  0.75423  0.84789  0.8943
+                            PC7      PC8      PC9     PC10     PC11    PC12
+Standard deviation     21.67754 15.32224 12.36878 11.03292 10.80645 9.61093
+Proportion of Variance  0.03289  0.01643  0.01071  0.00852  0.00817 0.00647
+Cumulative Proportion   0.92719  0.94362  0.95433  0.96285  0.97102 0.97749
+                          PC13    PC14    PC15    PC16    PC17      PC18
+Standard deviation     9.38922 8.29474 8.11144 7.31290 6.73860 6.267e-14
+Proportion of Variance 0.00617 0.00482 0.00461 0.00374 0.00318 0.000e+00
+Cumulative Proportion  0.98366 0.98847 0.99308 0.99682 1.00000 1.000e+00

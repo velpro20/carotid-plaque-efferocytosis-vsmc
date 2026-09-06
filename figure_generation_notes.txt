@@ -1,0 +1,4 @@
+Figure contract: quantitative panels are generated from files under 05_results/tables or 05_results/qc.
+Figures use symptomatic/asymptomatic terminology and do not claim causality.
+Exports: PDF, PNG, SVG, and 300-dpi TIFF for every generated main figure.
+Figure 4-6 single-cell panels are exploratory and donor-aware; cells are not treated as independent patients.

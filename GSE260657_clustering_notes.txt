@@ -1,0 +1,8 @@
+scRNA normalization and clustering record for GSE260657
+Normalization: log1p(counts / cell library size * 10000).
+Feature selection: top high-variance genes plus canonical markers; n=1228.
+Dimensionality reduction: PCA; PCs computed=20.
+Clustering: k-means on the first 10 PCs; k=10.
+UMAP: skipped because the uwot package was not available in the locked environment.
+Annotation: canonical marker-score winner with unassigned calls retained; cluster dominant labels are descriptive.
+Between-group inference: donor/file is the independent unit; cells are not treated as independent patients.

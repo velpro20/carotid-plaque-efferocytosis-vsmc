@@ -1,0 +1,3 @@
+Validation is reported as a separate cohort and is not merged with discovery.
+Concordant directions without FDR support are labeled direction_concordant_only.
+Inconsistent directions are retained and should be discussed by cohort, platform, disease stage, and sample size.

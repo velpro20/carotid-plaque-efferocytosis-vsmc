@@ -1,0 +1,4 @@
+PubMed records written: 100
+Records with DOI metadata: 98
+Metadata source: NCBI PubMed E-utilities via rentrez.
+Verification boundary: metadata existence is verified; relevance and exact use in manuscript require author review.

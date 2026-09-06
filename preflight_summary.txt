@@ -1,0 +1,6 @@
+Preflight completed.
+R version: R version 4.6.0 (2026-04-24 ucrt)
+Seed: 20260903
+Working directory: D:/博士阶段/4、期刊/网药/1
+Missing required files: 0
+Missing optional/core packages: 0

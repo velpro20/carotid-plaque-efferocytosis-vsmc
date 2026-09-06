@@ -1,0 +1,1 @@
+DOCX/PDF conversion was not confirmed by the automated Word step; Markdown/source tables remain authoritative.

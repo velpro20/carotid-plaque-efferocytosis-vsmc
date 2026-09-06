@@ -1,0 +1,11 @@
+"sc_cluster","dominant_cell_type","total_cells","b_cell","endothelial","fibroblast","macrophage","mast","t_nk","unassigned","vsmc"
+"C1","t_nk",249,29,0,0,0,12,204,4,0
+"C10","fibroblast",1351,10,21,1017,0,13,4,119,167
+"C2","vsmc",1257,9,11,101,0,6,4,76,1050
+"C3","macrophage",1074,28,7,3,939,35,15,47,0
+"C4","macrophage",626,37,0,2,501,29,9,46,2
+"C5","macrophage",810,26,8,3,559,39,50,123,2
+"C6","endothelial",912,24,680,30,5,28,13,112,20
+"C7","fibroblast",652,6,14,376,0,12,5,72,167
+"C8","fibroblast",254,2,9,103,1,0,0,38,101
+"C9","macrophage",505,36,6,10,266,42,28,115,2

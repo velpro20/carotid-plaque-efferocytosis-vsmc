@@ -1,0 +1,15 @@
+file
+cell
+macrophage
+vsmc
+endothelial
+fibroblast
+t_nk
+b_cell
+mast
+major_cell_type
+top_score
+second_score
+detected_genes
+counts
+mt_fraction
