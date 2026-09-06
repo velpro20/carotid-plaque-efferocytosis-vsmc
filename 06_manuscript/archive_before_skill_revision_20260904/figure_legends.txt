@@ -1,0 +1,7 @@
+Figure 1 | Study design, cohort roles, and analysis gates. Public human carotid plaque cohorts were assigned to discovery, independent validation, or single-cell localization roles according to explicit metadata. Symptomatic and asymptomatic labels are retained as reported.
+Figure 2 | Discovery bulk QC and differential expression. PCA, sample structure, and differential-expression results for GSE111782 are generated from the processed expression matrix. Statistical testing uses limma with two-sided tests and Benjamini-Hochberg correction.
+Figure 3 | Predefined efferocytosis and VSMC signatures. Scores are standardized sample-level expression-program summaries. Associations are tissue-level correlations and do not imply causality.
+Figure 4 | Single-cell QC and major-cell localization. Shown only when GSE260657 raw files and metadata pass the audit gate. Cells are not independent patients.
+Figure 5 | Macrophage and VSMC program scores. Descriptive scores for canonical macrophage, VSMC, efferocytosis, contractile, and non-contractile programs. Uncertain clusters are not forced into a cell identity.
+Figure 6 | Optional modules. Cell communication and spatial validation are not included unless their strict data and annotation gates are met.
+Figure 7 | Independent bulk validation. Discovery-derived directions and signature summaries are displayed separately for GSE311535. Direction concordance is not equivalent to replication of statistical significance.

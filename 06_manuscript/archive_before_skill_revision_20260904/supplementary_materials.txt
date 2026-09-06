@@ -1,0 +1,6 @@
+Supplementary materials:
+- Complete DEG tables for discovery and validation.
+- GO, KEGG, Reactome, and ranked signature enrichment tables when generated.
+- Predefined gene-set file and source notes.
+- Single-cell QC, marker, and program-score tables when raw files pass the gate.
+- Dataset audit, file hashes, runbook, error log, and reproducibility notes.

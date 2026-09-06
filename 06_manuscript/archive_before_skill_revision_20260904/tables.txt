@@ -1,0 +1,5 @@
+Table 1. Dataset audit and provenance: see 03_data/metadata/dataset_audit.csv.
+Table 2. Discovery bulk complete differential-expression table: see 05_results/tables/GSE111782_DEG_complete.csv.
+Table 3. Independent validation complete differential-expression table: see 05_results/tables/GSE311535_DEG_complete.csv.
+Table 4. Predefined signatures and sample-level scores: see 05_results/tables/predefined_gene_sets.csv and signature_scores.csv.
+Table 5. External validation direction and signature summaries: see 05_results/tables/external_validation_gene_direction.csv and external_validation_signature_summary.csv.

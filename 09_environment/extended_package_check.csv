@@ -1,0 +1,9 @@
+"package","installed","version"
+"hgu133a2.db",TRUE,"3.13.0"
+"GSVA",TRUE,"2.6.6"
+"GSEABase",TRUE,"1.74.0"
+"org.Hs.eg.db",TRUE,"3.23.1"
+"clusterProfiler",FALSE,NA
+"ReactomePA",FALSE,NA
+"fgsea",TRUE,"1.38.0"
+"AnnotationDbi",TRUE,"1.74.0"

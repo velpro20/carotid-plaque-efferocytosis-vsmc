@@ -1,0 +1,7 @@
+Supplementary materials included in the project package:
+- Complete DEG tables for discovery and validation cohorts.
+- GO, Reactome, and ranked predefined-signature enrichment tables where generated.
+- Predefined efferocytosis and VSMC gene-set definitions with source notes.
+- Single-cell QC, marker-candidate, annotation, subcluster, and donor-level program-score tables.
+- Dataset audit, file hashes, runbook, error log, package versions, and reproducibility notes.
+- Skill-based manuscript review, statistical audit, and reference-verification reports.
